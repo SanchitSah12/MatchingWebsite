@@ -2,7 +2,7 @@
     <p align="center">A DATABASE PROJECT</p>
     <p align="center">Made Using NODE JS EJS and MYSQL</p>
 
-    <p align="center"> Some ScreenShots </p> 
+   <h2> Some ScreenShots </h2> 
     
   <h3>Signin</h3>
   
